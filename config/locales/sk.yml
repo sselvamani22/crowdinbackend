@@ -1,6 +1,6 @@
 sk:
   language:
-    name: "English"
+    name: "Slovak"
   activerecord:
     errors:
       messages:
@@ -17,12 +17,12 @@ sk:
   activemodel:
     errors:
       messages:
-        record_invalid: "Validation failed: %{errors}"
-        email_invalid: "Your email is invalid."
+        record_invalid: "Overenie zlyhalo: %{errors}"
+        email_invalid: "Váš email je neplatný."
   call_queue:
-    name: 'Call Queue'
+    name: 'Poradie hovorov'
     edit:
-      loading: 'Loading Queue..'
+      loading: 'Nahrávanie poradia..'
       placeholders:
-        name: 'Call Queue Name'
-        message: 'PLAY MESSAGE...'
+        name: 'Názov poradia hovorov'
+        message: 'PREHRAŤ SPRÁVU...'
