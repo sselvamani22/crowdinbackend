@@ -20,9 +20,9 @@ ja:
         record_invalid: "認証に失敗しました：%{errors}"
         email_invalid: "無効なメールアドレスです."
   call_queue:
-    name: 'Call Queue'
+    name: '通話待機'
     edit:
-      loading: 'Loading Queue..'
+      loading: '読込待機中…'
       placeholders:
-        name: 'Call Queue Name'
-        message: 'PLAY MESSAGE...'
+        name: '通話キュー名'
+        message: 'メッセージを再生…'
