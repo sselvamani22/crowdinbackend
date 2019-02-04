@@ -19,3 +19,10 @@ es:
       messages:
         record_invalid: "Error de validación: %{errors}"
         email_invalid: "Su dirección de correo electrónico no es válida."
+  call_queue:
+    name: 'Call Queue'
+    edit:
+      loading: 'Loading Queue..'
+      placeholders:
+        name: 'Call Queue Name'
+        message: 'PLAY MESSAGE...'
