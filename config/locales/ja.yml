@@ -19,3 +19,10 @@ ja:
       messages:
         record_invalid: "認証に失敗しました：%{errors}"
         email_invalid: "無効なメールアドレスです."
+  call_queue:
+    name: 'Call Queue'
+    edit:
+      loading: 'Loading Queue..'
+      placeholders:
+        name: 'Call Queue Name'
+        message: 'PLAY MESSAGE...'
