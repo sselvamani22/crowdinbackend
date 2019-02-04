@@ -1,0 +1,8 @@
+th:
+  language:
+    name: "Thai"
+  activemodel:
+    errors:
+      messages:
+        record_invalid: "การตรวจสอบความถูกต้องล้มเหลว: %{errors}"
+        email_invalid: "อีเมลของคุณไม่ถูกต้อง"
