@@ -19,3 +19,10 @@ th:
       messages:
         record_invalid: "การตรวจสอบความถูกต้องล้มเหลว: %{errors}"
         email_invalid: "อีเมลของคุณไม่ถูกต้อง"
+  call_queue:
+    name: 'Call Queue'
+    edit:
+      loading: 'Loading Queue..'
+      placeholders:
+        name: 'Call Queue Name'
+        message: 'PLAY MESSAGE...'
