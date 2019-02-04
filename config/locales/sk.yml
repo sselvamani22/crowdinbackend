@@ -1,0 +1,21 @@
+sk:
+  language:
+    name: "English"
+  activerecord:
+    errors:
+      messages:
+        blank: "The %{attribute} is blank"
+        taken: "The %{attribute} has already been taken"
+        too_short: "The %{attribute} must have at least %{count} characters."
+        too_long: "The %{attribute} must have no more than %{count} characters."
+        presence: "The %{attribute} is blank"
+        uniqueness: "The %{attribute} has already been taken"
+        inclusion: "The %{attribute} is not included in the list"
+        exclusion: "The %{attribute} is reserved"
+        numericality: "The %{attribute} is not a number"
+        format: "The %{attribute} is invalid"
+  activemodel:
+    errors:
+      messages:
+        record_invalid: "Validation failed: %{errors}"
+        email_invalid: "Your email is invalid."
