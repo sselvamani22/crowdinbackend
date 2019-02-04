@@ -6,3 +6,10 @@ es-ES:
       messages:
         record_invalid: "Error de validación: %{errors}"
         email_invalid: "Su dirección de correo electrónico no es válida."
+  call_queue:
+    name: 'Cola de llamadas'
+    edit:
+      loading: 'Cargando cola...'
+      placeholders:
+        name: 'Nombre de la cola de llamadas'
+        message: 'REPRODUCIR MENSAJE...'
