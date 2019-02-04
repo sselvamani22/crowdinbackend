@@ -19,3 +19,10 @@ en:
       messages:
         record_invalid: "Validation failed: %{errors}"
         email_invalid: "Your email is invalid."
+  call_queue:
+    name: 'Call Queue'
+    edit:
+      loading: 'Loading Queue..'
+      placeholders:
+        name: 'Call Queue Name'
+        message: 'PLAY MESSAGE...'
