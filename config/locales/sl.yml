@@ -1,6 +1,6 @@
 sl:
   language:
-    name: "English"
+    name: "Slovenian"
   activerecord:
     errors:
       messages:
@@ -17,12 +17,12 @@ sl:
   activemodel:
     errors:
       messages:
-        record_invalid: "Validation failed: %{errors}"
-        email_invalid: "Your email is invalid."
+        record_invalid: "Preverjanje neuspešno: %{errors}"
+        email_invalid: "Vaš e-poštni naslov je neveljaven."
   call_queue:
-    name: 'Call Queue'
+    name: 'Klicna vrsta'
     edit:
-      loading: 'Loading Queue..'
+      loading: 'Nalaganje vrste ...'
       placeholders:
-        name: 'Call Queue Name'
-        message: 'PLAY MESSAGE...'
+        name: 'Ime klicne vrste'
+        message: 'PREDVAJAJ SPOROČILO ...'
