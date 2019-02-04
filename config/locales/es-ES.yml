@@ -1,0 +1,8 @@
+es-ES:
+  language:
+    name: "Spanish"
+  activemodel:
+    errors:
+      messages:
+        record_invalid: "Error de validación: %{errors}"
+        email_invalid: "Su dirección de correo electrónico no es válida."
