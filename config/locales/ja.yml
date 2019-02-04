@@ -1,0 +1,8 @@
+ja:
+  language:
+    name: "Japanese"
+  activemodel:
+    errors:
+      messages:
+        record_invalid: "認証に失敗しました：%{errors}"
+        email_invalid: "無効なメールアドレスです."
